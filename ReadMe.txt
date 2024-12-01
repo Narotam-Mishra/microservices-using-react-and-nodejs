@@ -46,4 +46,5 @@ Q. Why Database-Per-Service?
 
 # Problem with 2nd approach - If anything ever goes wrong with the database, be right there. Then all of a sudden service is going to start to crash because we have introduced a dependency between service A and service B.
 
+# Lec 5 - Big problems with data (5:08)
 
